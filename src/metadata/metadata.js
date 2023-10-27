@@ -6,8 +6,8 @@ module.exports = {
     'Github': `<a href="https://github.com/monwisn/">
                   <i class="fab fa-github fact-icon"></i>monwisn
                 </a>`,
-    'LinkedIn': '<a href="linkedin.com/in/monika-wiśniewska-174991172"><i class="fab fa-linkedin fact-icon"></i>monwisn</a>',
-    'Email': '<a href="wisniewska.monika00@gmail.com"><i class="fa fa-envelope fact-icon"></i>wisniewska.monika00@gmail.com</a>',
+    'LinkedIn': '<a href="https://linkedin.com/in/monika-wiśniewska-174991172"><i class="fab fa-linkedin fact-icon"></i>monwisn</a>',
+    'Email': '<a href="mailto:wisniewska.monika00@gmail.com"><i class="fa fa-envelope fact-icon"></i>wisniewska.monika00@gmail.com</a>',
     'Phone': `<a href=""><i class="fa fa-phone fact-icon"></i>phone number</a>`,
   },
   skills: [
