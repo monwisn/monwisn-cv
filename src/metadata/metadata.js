@@ -18,7 +18,7 @@ module.exports = {
     ['CSS', 50],
     ['SQL', 50],
     ['Git, Github', 50],
-    ['Docker', 25],
+    ['Postman', 50],
     ['FastAPI', 25],
     ['Attention to detail', 100],
     ['Team Player', 75],
