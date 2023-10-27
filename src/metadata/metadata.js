@@ -1,13 +1,14 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Monika Wiśniewska',
+  title: '',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
+    'Home': '<a href="https://www.google.com/maps/place/Gda%C5%84sk/@54.3611752,18.5252214,11z/data=!3m1!4b1!4m6!3m5!1s0x46fd731c14d4fa6f:0x9bb9fbf163b7be8d!8m2!3d54.3520252!4d18.6466384!16zL20vMDM1bTY?entry=ttu"><i class="fa fa-home fact-icon"></i>Gdansk, PL</a>',
+    'Github': `<a href="https://github.com/monwisn/">
+                  <i class="fab fa-github fact-icon"></i>monwisn
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'LinkedIn': '<a href="linkedin.com/in/monika-wiśniewska-174991172"><i class="fab fa-linkedin fact-icon"></i>monwisn</a>',
+    'Email': '<a href="wisniewska.monika00@gmail.com"><i class="fa fa-envelope fact-icon"></i>wisniewska.monika00@gmail.com</a>',
+    'Phone': `<a href=""><i class="fa fa-phone fact-icon"></i>phone number</a>`,
   },
   skills: [
     ['Comedy', 100],
