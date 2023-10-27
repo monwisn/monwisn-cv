@@ -13,7 +13,7 @@ module.exports = {
   skills: [
     ['Python', 100],
     ['Django', 75],
-    ['Pycharm', 100],
+    ['PyCharm', 100],
     ['HTML', 50],
     ['CSS', 50],
     ['SQL', 50],
