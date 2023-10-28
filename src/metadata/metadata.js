@@ -19,7 +19,7 @@ module.exports = {
     ['SQL', 50],
     ['Git, Github', 50],
     ['Postman', 50],
-    ['FastAPI', 25],
+    ['PyTest, Unittest', 50],
     ['Attention to detail', 100],
     ['Team Player', 75],
     ['Problem Solving', 75],
