@@ -24,6 +24,11 @@ module.exports = {
     ['Team Player', 75],
     ['Problem Solving', 75],
   ],
+  languages: [
+    ['Polish', 100],
+    ['English', 75],
+    ['Spanish', 25],
+  ],
   positions: [
     {
       title: 'Hamlet',
