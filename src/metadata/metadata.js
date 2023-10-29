@@ -30,6 +30,7 @@ module.exports = {
     ['Spanish', 25],
   ],
   positions: [
+    
     {
       title: 'GIT - Training - Udemy/DoKodu [2019, 2022]',
       period: '1600 – 1601',
@@ -58,7 +59,7 @@ Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebast
     },
     {
       header: 'GIT - Training - Udemy/DoKodu [2019, 2022]',
-      skills: ['git'],
+      skills: ['git', 'scrum'],
     },
   ]
 };
