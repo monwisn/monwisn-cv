@@ -29,7 +29,7 @@ module.exports = {
     ['English', 75],
     ['Spanish', 25],
   ],
-  exprience: [
+  experience: [
     {
       header: 'Type Annotations in Python - Training - Udemy [2023]',
       skills: ['python', 'typing'],
