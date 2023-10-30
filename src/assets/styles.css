@@ -157,3 +157,11 @@ h1, h2, h3, h4 {
     content: '••••';
     color: var(--bs-primary);
 }
+
+.certificates {
+    margin-bottom: 0;
+}
+
+.certificates li {
+    padding-bottom: 0.6em;
+}
