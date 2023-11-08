@@ -9,7 +9,7 @@ Have both HTML and PDF versions automatically generated and consistent.
 * Helps you to manage your CV as a web app (HTML + CSS + JS).
 * Automatically generates and publishes HTML and PDF version on every push to `main`.
 
-Real world example (CV): [http://sneas.github.io/cv](https://monwisn.github.io/monwisn-cv/)
+Real world example (CV): [http://monwisn.github.io/monwisn-cv](https://monwisn.github.io/monwisn-cv/)
 
 ## Motivation
 
