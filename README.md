@@ -9,9 +9,12 @@ Have both HTML and PDF versions automatically generated and consistent.
 * Helps you to manage your CV as a web app (HTML + CSS + JS).
 * Automatically generates and publishes HTML and PDF version on every push to `main`.
 
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
 
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
+
+Real world example (CV): [https://monwisn.github.io/monwisn-cv](https://monwisn.github.io/monwisn-cv/)
+
+
+The project was based on the sneas repository: https://github.com/sneas/cv-template.
 
 ## Motivation
 
