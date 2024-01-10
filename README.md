@@ -11,8 +11,10 @@ Have both HTML and PDF versions automatically generated and consistent.
 
 
 
-The project was based on the sneas repository: https://github.com/sneas/cv-template.
 Real world example (CV): [https://monwisn.github.io/monwisn-cv](https://monwisn.github.io/monwisn-cv/)
+
+
+The project was based on the sneas repository: https://github.com/sneas/cv-template.
 
 ## Motivation
 
